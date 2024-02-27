@@ -1,3 +1,5 @@
+BNOtiny Breakout Board
+------------------------------
 Issued Date: 28 November 2023
 Revision 1
 
